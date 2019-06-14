@@ -1,0 +1,7 @@
+# Browsers that we support.
+# @see https://github.com/browserslist/browserslist
+
+last 1 version
+> 1%
+maintained node versions
+not dead

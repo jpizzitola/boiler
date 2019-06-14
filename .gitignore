@@ -1,0 +1,22 @@
+# npm modules
+node_modules/
+
+# Build directories
+dist/
+dll/
+build/
+lib/
+coverage/
+
+# npm cache
+.cache
+
+# macOS files
+.DS_Store
+**/.DS_Store
+**/*/.DS_Store
+
+# Env files
+#.env
+#.env.*
+#.env*
