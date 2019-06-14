@@ -1,6 +1,4 @@
-# Innovate48
-
-This project relates to the Innovate48 project sponsored by FIS.
+# JVP Boiler
 
 > BRIEF SUMMARY OF PROJECT (1-2 sentences)
 
@@ -8,7 +6,7 @@ This project relates to the Innovate48 project sponsored by FIS.
 
 ## Table of Contents
 
-- [Innovate48](#innovate48)
+- [JVP Boiler](#jvp-boiler)
   - [Table of Contents](#table-of-contents)
   - [Our Goal](#our-goal)
   - [Developer Roadmap](#developer-roadmap)

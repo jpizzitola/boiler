@@ -1,9 +1,9 @@
 {
-  "name": "innovate48",
+  "name": "boiler",
   "version": "1.0.0",
-  "description": "An ExpressJS API for the Innovate48 hack-a-thon.",
+  "description": "An ExpressJS API boilerplate",
   "private": true,
-  "homepage": "https://github.com/jpizzitola/innovate48#readme",
+  "homepage": "https://github.com/jpizzitola/boiler#readme",
   "main": "src/index.js",
   "scripts": {
     "build": "cross-env NODE_ENV=production API_PORT=8080 HOST_NAME=www.web.com build-command.js",
@@ -57,8 +57,7 @@
     "morgan": "^1.9.0",
     "normalize-port": "^1.0.0",
     "popper.js": "^1.14.7",
-    "query-string": "^6.4.2",
-    "stock-data.js": "^1.2.2"
+    "query-string": "^6.4.2"
   },
   "resolutions": {
     "babel-core": "7.0.0-bridge.0"
